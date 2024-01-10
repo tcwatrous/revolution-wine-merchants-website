@@ -15047,3 +15047,11 @@ fieldset:disabled .btn {
     width: 1rem;
 }
 /*# sourceMappingURL=theme.bundle.css.map*/
+
+.hero-text {
+  text-align: justify;
+  text-justify: auto;
+  text-align-last: justify;
+  max-width: 390px;
+  letter-spacing:0.1em;
+}
